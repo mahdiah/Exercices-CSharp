@@ -1,0 +1,9 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\ChiffreDeVigenere\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\ahmed\documents\visual studio 2015\Projects\ChiffreDeVigenere\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\ChiffreDeVigenere\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\ahmed\documents\visual studio 2015\Projects\ChiffreDeVigenere\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\C#\ChiffreDeVigenere_Mahdi\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\C#\ChiffreDeVigenere_Mahdi\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\C#\ChiffreDeVigenere_Mahdi\ClassLibrary1\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\C#\ChiffreDeVigenere_Mahdi\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\C#\ChiffreDeVigenere_Mahdi\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
