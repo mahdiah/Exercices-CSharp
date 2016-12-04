@@ -1,0 +1,14 @@
+C:\C#\WindowsSapin\WUI\bin\Debug\WUI.exe.config
+C:\C#\WindowsSapin\WUI\bin\Debug\WUI.exe
+C:\C#\WindowsSapin\WUI\bin\Debug\WUI.pdb
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.csprojResolveAssemblyReference.cache
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.Form1.resources
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.Properties.Resources.resources
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.csproj.GenerateResource.Cache
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.exe
+C:\C#\WindowsSapin\WUI\obj\Debug\WUI.pdb
+C:\C#\WindowsSapin\WUI\bin\Debug\Sapin.dll
+C:\C#\WindowsSapin\WUI\bin\Debug\Sapin.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\WindowsSapin\WUI\bin\Debug\WUI.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\WindowsSapin\WUI\obj\Debug\WUI.exe
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\WindowsSapin\WUI\obj\Debug\WUI.pdb

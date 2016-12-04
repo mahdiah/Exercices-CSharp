@@ -1,0 +1,4 @@
+C:\C#\WindowsSapin\Sapin\bin\Debug\Sapin.dll
+C:\C#\WindowsSapin\Sapin\bin\Debug\Sapin.pdb
+C:\C#\WindowsSapin\Sapin\obj\Debug\Sapin.dll
+C:\C#\WindowsSapin\Sapin\obj\Debug\Sapin.pdb
