@@ -1,0 +1,27 @@
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\UnitTest_Operator.dll
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\UnitTest_Operator.pdb
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\BLL_TIME.dll
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\BLL_TIME.pdb
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.csprojResolveAssemblyReference.cache
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.dll
+C:\C#\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\UnitTest_Operator.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\UnitTest_Operator.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\UnitTest_Operator\obj\Debug\UnitTest_Operator.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\UnitTest_Operator.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\UnitTest_Operator.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\obj\Debug\UnitTest_Operator.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\obj\Debug\UnitTest_Operator.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\UnitTest_Operator\obj\Debug\UnitTest_Operator.pdb

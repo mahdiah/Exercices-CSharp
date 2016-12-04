@@ -1,0 +1,15 @@
+C:\C#\OPERATEUR_SURCHARGE\BLL_TIME\bin\Debug\BLL_TIME.dll
+C:\C#\OPERATEUR_SURCHARGE\BLL_TIME\bin\Debug\BLL_TIME.pdb
+C:\C#\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.csprojResolveAssemblyReference.cache
+C:\C#\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.dll
+C:\C#\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\BLL_TIME\bin\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\BLL_TIME\bin\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\OPERATEUR_SURCHARGE\BLL_TIME\obj\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\BLL_TIME\bin\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\BLL_TIME\bin\Debug\BLL_TIME.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\BLL_TIME\obj\Debug\BLL_TIME.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\BLL_TIME\obj\Debug\BLL_TIME.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Time_Manager\BLL_TIME\obj\Debug\BLL_TIME.pdb
