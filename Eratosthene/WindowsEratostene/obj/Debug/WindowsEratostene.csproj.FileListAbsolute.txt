@@ -31,3 +31,6 @@ C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\WindowsEratostene.exe
 C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\WindowsEratostene.pdb
 C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\BLL.dll
 C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\BLL.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Eratosthene\WindowsEratostene\bin\Debug\WindowsEratostene.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Eratosthene\WindowsEratostene\obj\Debug\WindowsEratostene.exe
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\Eratosthene\WindowsEratostene\obj\Debug\WindowsEratostene.pdb
