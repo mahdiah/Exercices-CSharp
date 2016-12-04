@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "erasto", "test\erasto.csproj", "{D69FAAD2-B94F-481B-A0D2-4D4C3EC7AB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{ECFB217F-7333-4D3D-BD9E-A148D922EF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEratostene", "WindowsEratostene\WindowsEratostene.csproj", "{1A0DE532-F4AE-45B7-A948-D750B3250575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69FAAD2-B94F-481B-A0D2-4D4C3EC7AB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69FAAD2-B94F-481B-A0D2-4D4C3EC7AB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69FAAD2-B94F-481B-A0D2-4D4C3EC7AB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69FAAD2-B94F-481B-A0D2-4D4C3EC7AB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB217F-7333-4D3D-BD9E-A148D922EF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB217F-7333-4D3D-BD9E-A148D922EF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB217F-7333-4D3D-BD9E-A148D922EF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB217F-7333-4D3D-BD9E-A148D922EF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0DE532-F4AE-45B7-A948-D750B3250575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0DE532-F4AE-45B7-A948-D750B3250575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0DE532-F4AE-45B7-A948-D750B3250575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0DE532-F4AE-45B7-A948-D750B3250575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

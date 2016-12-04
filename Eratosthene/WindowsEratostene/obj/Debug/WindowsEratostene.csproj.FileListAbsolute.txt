@@ -1,0 +1,33 @@
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.exe.config
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.exe
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.Properties.Resources.resources
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.csproj.GenerateResource.Cache
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.exe
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\bin\Debug\BLL.dll
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\bin\Debug\BLL.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.Eratostene.resources
+C:\C#\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.exe.config
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.exe
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.pdb
+C:\C#\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.exe
+C:\C#\Erasto\WindowsEratostene\bin\Debug\WindowsEratostene.pdb
+C:\C#\Erasto\WindowsEratostene\bin\Debug\BLL.dll
+C:\C#\Erasto\WindowsEratostene\bin\Debug\BLL.pdb
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.csprojResolveAssemblyReference.cache
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.Properties.Resources.resources
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.csproj.GenerateResource.Cache
+C:\C#\Erasto\WindowsEratostene\obj\Debug\WindowsEratostene.EratosteneForm.resources
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\WindowsEratostene.exe.config
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.exe
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.pdb
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.csprojResolveAssemblyReference.cache
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.EratosteneForm.resources
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.Properties.Resources.resources
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\obj\Debug\WindowsEratostene.csproj.GenerateResource.Cache
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\WindowsEratostene.exe
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\WindowsEratostene.pdb
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\BLL.dll
+C:\C#\Eratosthene_Mahdi\WindowsEratostene\bin\Debug\BLL.pdb

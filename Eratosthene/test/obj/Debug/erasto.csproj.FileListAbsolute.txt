@@ -1,0 +1,24 @@
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\bin\Debug\test.exe.config
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\obj\Debug\test.exe
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\obj\Debug\test.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\bin\Debug\test.exe
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\bin\Debug\test.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\bin\Debug\BLL.dll
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\bin\Debug\BLL.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\test\obj\Debug\erasto.csprojResolveAssemblyReference.cache
+C:\C#\Erasto\test\bin\Debug\test.exe.config
+C:\C#\Erasto\test\obj\Debug\test.exe
+C:\C#\Erasto\test\obj\Debug\test.pdb
+C:\C#\Erasto\test\bin\Debug\test.exe
+C:\C#\Erasto\test\bin\Debug\test.pdb
+C:\C#\Erasto\test\bin\Debug\BLL.dll
+C:\C#\Erasto\test\bin\Debug\BLL.pdb
+C:\C#\Erasto\test\obj\Debug\erasto.csprojResolveAssemblyReference.cache
+C:\C#\Eratosthene_Mahdi\test\bin\Debug\test.exe.config
+C:\C#\Eratosthene_Mahdi\test\obj\Debug\test.exe
+C:\C#\Eratosthene_Mahdi\test\obj\Debug\test.pdb
+C:\C#\Eratosthene_Mahdi\test\bin\Debug\test.exe
+C:\C#\Eratosthene_Mahdi\test\bin\Debug\test.pdb
+C:\C#\Eratosthene_Mahdi\test\bin\Debug\BLL.dll
+C:\C#\Eratosthene_Mahdi\test\bin\Debug\BLL.pdb
+C:\C#\Eratosthene_Mahdi\test\obj\Debug\erasto.csprojResolveAssemblyReference.cache

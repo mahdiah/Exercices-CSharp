@@ -1,0 +1,12 @@
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\BLL\bin\Debug\BLL.dll
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\BLL\bin\Debug\BLL.pdb
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\BLL\obj\Debug\BLL.dll
+C:\Users\ahmed\documents\visual studio 2015\Projects\Erasto\BLL\obj\Debug\BLL.pdb
+C:\C#\Erasto\BLL\bin\Debug\BLL.dll
+C:\C#\Erasto\BLL\bin\Debug\BLL.pdb
+C:\C#\Erasto\BLL\obj\Debug\BLL.dll
+C:\C#\Erasto\BLL\obj\Debug\BLL.pdb
+C:\C#\Eratosthene_Mahdi\BLL\bin\Debug\BLL.dll
+C:\C#\Eratosthene_Mahdi\BLL\bin\Debug\BLL.pdb
+C:\C#\Eratosthene_Mahdi\BLL\obj\Debug\BLL.dll
+C:\C#\Eratosthene_Mahdi\BLL\obj\Debug\BLL.pdb
