@@ -1,0 +1,8 @@
+C:\C#\ManageBank\BankAccount\bin\Debug\BankAccount.exe.config
+C:\C#\ManageBank\BankAccount\bin\Debug\BankAccount.exe
+C:\C#\ManageBank\BankAccount\bin\Debug\BankAccount.pdb
+C:\C#\ManageBank\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\C#\ManageBank\BankAccount\obj\Debug\BankAccount.exe
+C:\C#\ManageBank\BankAccount\obj\Debug\BankAccount.pdb
+C:\C#\ManageBank\BankAccount\bin\Debug\BLL_Bank.dll
+C:\C#\ManageBank\BankAccount\bin\Debug\BLL_Bank.pdb
