@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationnalWUI", "RationnalWUI\RationnalWUI.csproj", "{B51D7087-E06D-4909-8159-1CEF202FBB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationnalLibrary", "RationnalLibrary\RationnalLibrary.csproj", "{2CC2B8FD-ACC8-4532-8E14-CD94F1A51FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRationnal", "UnitTestRationnal\UnitTestRationnal.csproj", "{E68D44CA-C65B-4018-B4AF-E2F1455B5774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51D7087-E06D-4909-8159-1CEF202FBB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D7087-E06D-4909-8159-1CEF202FBB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D7087-E06D-4909-8159-1CEF202FBB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D7087-E06D-4909-8159-1CEF202FBB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC2B8FD-ACC8-4532-8E14-CD94F1A51FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC2B8FD-ACC8-4532-8E14-CD94F1A51FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC2B8FD-ACC8-4532-8E14-CD94F1A51FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC2B8FD-ACC8-4532-8E14-CD94F1A51FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68D44CA-C65B-4018-B4AF-E2F1455B5774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68D44CA-C65B-4018-B4AF-E2F1455B5774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68D44CA-C65B-4018-B4AF-E2F1455B5774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68D44CA-C65B-4018-B4AF-E2F1455B5774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
